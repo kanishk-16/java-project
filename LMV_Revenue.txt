@@ -1,0 +1,3 @@
+UK07RT4566,Light Motor Vehicle,Hatchback,50.0
+UP32TG8744,Light Motor Vehicle,Sedan,60.0
+Total LMV Revenue: ₹110.0

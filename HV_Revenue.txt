@@ -1,0 +1,2 @@
+BR01GH9083,Heavy Vehicle,Construction Vehicle,200.0
+Total Heavy Vehicle Revenue: ₹200.0
