@@ -205,6 +205,7 @@ public class TollSystemGUI {
         String vehicleNumber = JOptionPane.showInputDialog(null, "Enter Vehicle Number to Delete:", "Delete Record", JOptionPane.QUESTION_MESSAGE);
         if (vehicleNumber != null && !vehicleNumber.isEmpty()) {
             tollBooth.deleteRecord(vehicleNumber);
+            JOptionPane.showMessageDialog(null, "Record deleted successfully!", "Success", JOptionPane.INFORMATION_MESSAGE);
         } else {
             JOptionPane.showMessageDialog(null, "Vehicle number cannot be empty!", "Error", JOptionPane.ERROR_MESSAGE);
         }
