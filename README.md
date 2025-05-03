@@ -47,7 +47,7 @@ This Java-based Toll Tax Management System is designed to efficiently manage tol
 ├── Truck.class
 ├── Vehicle.class
 ├── mysql-connector-j-9.3.0.jar
-├── toll_records.txt
+
 
 ```
 ---
