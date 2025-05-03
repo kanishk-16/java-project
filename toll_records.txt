@@ -1,7 +1,0 @@
-UK07ER4577,Light Commercial Vehicle,Goods Vehicle,120.0
-UP32EP0716,Light Motor Vehicle,Hatchback,50.0
-UP32FG4533,Light Commercial Vehicle,Goods Vehicle,120.0
-UK07DF4566,Light Motor Vehicle,SUV,70.0
-BR01DR3422,Light Motor Vehicle,Hatchback,50.0
-UP16JK5677,Light Commercial Vehicle,Minibus,100.0
-UK07QZ8900,Heavy Vehicle,Construction Vehicle,200.0
