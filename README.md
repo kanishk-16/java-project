@@ -29,7 +29,6 @@ This Java-based Toll Tax Management System is designed to efficiently manage tol
 ├── Bike.class
 ├── Car.class
 ├── DBConnection.class
-├── DBConnection.java
 ├── HV_Revenue.txt
 ├── HeavyVehicle.class
 ├── LCV.class
